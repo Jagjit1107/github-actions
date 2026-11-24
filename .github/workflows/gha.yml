@@ -6,4 +6,7 @@ jobs:
     steps:
     - name: Hello Step
       run: echo "Welcome to github actions"
+      run: echo "This is line one"
+      run: echo "This is line two"
+      run: echo "EOF"
 
